@@ -1,0 +1,3 @@
+﻿  T06-Tally-Roll-main.cpp
+C:\Users\dnten\source\repos\t06-diceroll-a-team-name\T06-Tally-Roll-main.cpp(74,17): warning C4101: 'thisrollb': unreferenced local variable
+  T06-Tally-Roll.vcxproj -> C:\Users\dnten\Source\Repos\t06-diceroll-a-team-name\x64\Debug\T06-Tally-Roll.exe
